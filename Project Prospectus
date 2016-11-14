@@ -1,0 +1,31 @@
+Zahra Qadri-1000568370
+
+CCT490 Assignment 1: Part 1: Project Declaration
+
+			I will produce a report on the different health touches between non aboriginal and aboriginal people and within aboriginal people. I will draw on health outcomes such as overweight, normal weight, obesity and diabetes. This data report will allow us to theorize whether males or females are healthier, also whether there is a significant difference between the data of aboriginal males and females and that of non-aboriginal males and females. Also from this data, we will be able to gain insight on what percentage of a population is effected by a certain health condition. Oct 27 - Project prospectus (10%)
+	◦	The project prospectus outlines what you plan to do on this project. You will need to make decisions for each of these: for the Canadian Tire project you will choose the months you will focus on; for the Stats Can project, you need to decide on which health outcomes you would like to study; and for the political consultant project, you need to decide on which parties you will analyze. For the prospectus, you will have begun looking at the data for the project, and begun to engage in tentative analysis. Your final report will build directly from the prospectus, so you should start it in a Jupyter Notebook and build from there.
+
+CCT490 Final Report: Part 2: The Prospectus:
+    
+    The project prospectus outlines what you plan to do on this project. You will need to make decisions for each of these: for the Canadian Tire project you will choose the months you will focus on; for the Stats Can project, you need to decide on which health outcomes you would like to study; and for the political consultant project, you need to decide on which parties you will analyze. For the prospectus, you will have begun looking at the data for the project, and begun to engage in tentative analysis. Your final report will build directly from the prospectus, so you should start it in a Jupyter Notebook and build from there.
+
+What I plan to do:
+
+I plan to organize the data of community health survey by specific heath concerns of aboriginal and non-aboriginal peoples. I will use relationships between males and females in different regions of Canada (provinces and health care systems) and their self reported health status with the characteristics of whether they have diabetes or high blood pressure or both. I plan to manipulate the data of the community health survey to specifically show the variables that I will be testing for. Ex. Diabetes, high blood pressure, males, females and both, the regions of canada, aboriginals and non aboriginals, age groups, as well as self reported health status of each individual.
+
+Which Health Outcomes I would like to study?:
+
+I would like to study the health outcomes of diabetes and high blood pressure as they go hand in hand and most likely occur together. I would like to study whether these health outcomes are more likely to occur in aboriginals or non aboriginals and in which areas of Canada are they more persistant. Also, which areas of Canada are the healthiest.
+
+
+Purpose:
+
+The purpose of this project is to analyze the data in a way to distinguish betwen aboriginals and non aboriginals, males and females and different regions of canada to determine the overall health status of people living in those regions.
+I will also find the mean average of each data set I study, for example, the avergae # of males which report excellent health conditions, that have diabetes and high blood pressure simultaneously. In addition to the averages of males and females that have both health issues, I can also test for the minimum and maximum of each group, to find which province or region has the least amount of males or females that have these health outcomes specifically. The target population is 12 years and older indivduals who are living in the territories and provinces of Canada.
+
+Research Question and Hypothesis:
+
+I predict that people who have self reported excellent health, are less likely to have both diabetes and high blood pressure than those who have self reported low health status. My research question will be how many individuals in each region/province of Canada with self reported excellent health conditions are also diagnosed with diabetes and high blood pressure. 
+
+
+
